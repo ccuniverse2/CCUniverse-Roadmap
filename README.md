@@ -6,14 +6,13 @@ This roadmap outlines the phased development and launch plan for the CoolCrimina
 
 ## Visual Flowchart Overview
 
-```mermaid
-flowchart TD
+
+    flowchart TD
     A[Phase 1: Foundation & Core Contracts] --> B[Phase 2: NFT Ecosystem & DApp MVP]
     B --> C[Phase 3: DeFi & Community Modules]
     C --> D[Phase 4: Multichain & Advanced Features]
     D --> E[Phase 5: Launch, Security, & Scaling]
     E --> F[Phase 6: Future Expansion]
-
     subgraph Smart Contracts
         A1[CCUMToken (ERC-20)]
         A2[MemePresale]
@@ -61,9 +60,7 @@ flowchart TD
         F4[AI-powered NFT Utilities]
     end
     F --> Expansion
-```
 
----
 
 ## Phase 1: Foundation & Core Contracts
 
